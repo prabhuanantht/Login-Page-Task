@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 
 // Define the types for user categories
 type UserType = 'Student' | 'Instructor' | 'School';
